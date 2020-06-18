@@ -4,7 +4,6 @@ const axios = require('axios')
 import Layout from '../components/layout'
 
 export default function Projects({ projects }) {
-    console.log(projects)
     const projectsMap = projects.map(project => {
         return (
             <div>
