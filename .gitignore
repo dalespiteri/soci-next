@@ -15,6 +15,9 @@
 # production
 /build
 
+# Strapi
+/backend
+
 # misc
 .DS_Store
 
